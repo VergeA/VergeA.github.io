@@ -8,7 +8,7 @@ I'm currently working on video playback at YouTube. I primarily work on C++ web 
 
 Previously I interned on two other teams/projects at Google:
 *  The Google Mobile Ads SDK
-*  [Cobalt](https://cobalt.foo), and HTML5 app container for resource-constrained devices.
+*  [Cobalt](https://cobalt.foo), an HTML5 app container for resource-constrained devices.
 
 ## My Interests
 
