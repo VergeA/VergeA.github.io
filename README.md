@@ -1,5 +1,3 @@
-# Andrew Verge
-
 Hey y'all, welcome to my personal site. Yes, I am using a default Github Pages theme. No, I am not sorry.
 
 ## My Work
