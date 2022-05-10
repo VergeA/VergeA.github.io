@@ -4,11 +4,13 @@ Hey y'all, welcome to my personal site.
 I'm a software engineer based in Cambridge, MA, working for Google at their office in Kendall Square. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
 
 ## My Work
-I'm currently working on video playback at YouTube. I primarily work on C++ web services, but I've contributed to the Android video player as well.
+I'm currently working on video playback at YouTube. I primarily work on C++ web services, but I've contributed to the Android video player as well. When I'm not writing code, I mentor interns during the summer, and spend a fair amount of time staring at SQL query progress bars.
 
 Previously I interned on two other teams/projects at Google:
 *  The Google Mobile Ads SDK
+   *  I implemented experimental functionality on the Android version of the SDK.   
 *  [Cobalt](https://cobalt.foo), an HTML5 app container for resource-constrained devices.
+  *   I mostly worked on the Python tooling used to support development and testing of Cobalt across its various device targets. 
 
 ## My Interests
 
