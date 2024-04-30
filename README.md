@@ -1,16 +1,18 @@
-Hey y'all, welcome to my personal site.
-
 ## About Me
 I'm a software engineer based in Cambridge, MA, working for Google at their office in Kendall Square. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
 
 ## My Work
-I'm currently working on video playback at YouTube. I primarily work on C++ web services, but I've contributed to the Android video player as well. When I'm not writing code, I mentor interns during the summer, and spend a fair amount of time staring at SQL query progress bars.
+I'm currently working on the proposed HTML [\<fencedframe\>](https://github.com/WICG/fenced-frame/tree/master/explainer) element. I contribute changes to Chromium and and work within the Web Platform feature incubation process. 
 
-Previously I interned on two other teams/projects at Google:
+Before that, I was working on video playback at YouTube, mostly on the C++ microservices that support playback at scale. I also dabbled in the Android video player and YouTube's CDN.
+
+In college, I interned on two other teams/projects at Google:
 *  The Google Mobile Ads SDK
     *  I implemented experimental functionality on the Android version of the SDK.   
 *  [Cobalt](https://cobalt.foo), an HTML5 app container for resource-constrained devices.
     *   I mostly worked on the Python tooling used to support development and testing of Cobalt across its various device targets. 
+
+When I'm not writing code, I mentor interns during the summer.
 
 ## My Interests
 
@@ -23,7 +25,7 @@ Inside of programming, there are a couple of topics that I'm hoping to learn mor
 Outside of programming, I spend most of my time:
 * Playing games with friends on my PC
 * Playing musical instruments
-* Taking long walks in scenic parts of the city 
+* Working on my homelab (it is never done)
 
 ## Socials
 *  [LinkedIn](https://www.linkedin.com/in/andrewverge/)
