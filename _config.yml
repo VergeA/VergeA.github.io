@@ -1,8 +1,16 @@
 title: Andrew Verge
-description: Really Into Rebasing
+description: Hosted on Github Pages
 remote_theme: jekyll/minima@d4d779a
 minima:
   skin: dark
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/VergeA"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://linkedin.com/in/andrewverge"
+   hide_site_feed_link: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
