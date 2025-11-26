@@ -2,7 +2,7 @@
 layout: base
 ---
 
-<img src="resources/profile.jpeg" width="200" height="200" style="border-radius: 25px">
+<img src="resources/profile.jpeg" width="200" height="200" style="border-radius: 16px">
 
 # About Me
 I'm a software engineer based in Cambridge, MA, working for Google. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
