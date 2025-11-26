@@ -1,5 +1,8 @@
 title: Andrew Verge
-theme: minima
+author:
+  name: VergeA
+description: Really Into Rebasing
+remote_theme: jekyll/minima@d4d779a
 minima:
   skin: dark
 plugins:
