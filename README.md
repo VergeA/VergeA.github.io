@@ -1,34 +1,21 @@
 ## About Me
-I'm a software engineer based in Cambridge, MA, working for Google at their office in Kendall Square. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
+I'm a software engineer based in Cambridge, MA, working for Google. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
 
 ## My Work
-I'm currently working on the proposed HTML [\<fencedframe\>](https://github.com/WICG/fenced-frame/tree/master/explainer) element. I contribute changes to Chromium and work within the Web Platform feature incubation process. 
+I'm currently working on AI features for Google's Chrome browser. I also work on the proposed HTML [\<fencedframe\>](https://github.com/WICG/fenced-frame/tree/master/explainer) element. I contribute changes to Chromium and work within the Web Platform feature incubation process. 
 
-Before that, I was working on video playback at YouTube, mostly on the C++ microservices that support playback at scale. I also dabbled in the Android video player and YouTube's CDN.
+Before that, I was working on video playback at YouTube, mostly on the C++ microservices that support playback at scale. I also dabbled in the Android video player and YouTube's CDN. 
 
-In college, I interned on two other teams/projects at Google:
-*  The Google Mobile Ads SDK
-    *  I implemented experimental functionality on the Android version of the SDK.   
-*  [Cobalt](https://cobalt.foo), an HTML5 app container for resource-constrained devices.
-    *   I mostly worked on the Python tooling used to support development and testing of Cobalt across its various device targets. 
-
-When I'm not writing code, I mentor interns during the summer.
+In the past, I also worked on the Google Mobile Ads SDK for Android, as well as [Cobalt](https://cobalt.foo), an HTML5 app container for living room devices like game consoles and smart TVs.
 
 ## My Interests
-Inside of programming, there are a couple of topics that I'm hoping to learn more about:
-*  Compiler development/design
-    *  I took a class during my undergrad in which we compiled progressively-more-complicated languages to assembly; it was some of the most challenging and rewarding work I did during my time in university, and I'd love to go further down that rabbit-hole.
-*  Security
-    *  Honestly, malware analysis just seems really cool.
+When I'm not programming, I spend most of my time:
 
-Outside of programming, I spend most of my time:
-* Playing games with friends on my PC
+* Gaming with friends on my PC
 * Playing musical instruments
 * Working on my homelab (it is never done)
 
-## Socials
-*  [LinkedIn](https://www.linkedin.com/in/andrewverge/)
-*  [Twitter](https://twitter.com/_averge)
+I'm hoping to blog about tech, games, and other topics on this site soon. When I do, I'll link the posts here!
 
 ## Contact Me
-If you'd like to get in touch, please send me a LinkedIn message.
+If you'd like to get in touch, please send me a [LinkedIn](https://www.linkedin.com/in/andrewverge/) message.
