@@ -1,4 +1,4 @@
-![Picture of my face](resources/profile.jpeg)
+<img src="resources/profile.jpeg" width="200" height="200">
 
 # About Me
 I'm a software engineer based in Cambridge, MA, working for Google. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
