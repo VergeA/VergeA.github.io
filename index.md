@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 <img src="resources/profile.jpeg" width="200" height="200">
 
 # About Me
