@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 ---
 
 <img src="resources/profile.jpeg" width="200" height="200" style="border-radius: 25px">
