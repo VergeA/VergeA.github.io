@@ -1,5 +1,7 @@
 # Andrew Verge
 
+![Picture of my face](resources/profile.jpeg)
+
 ## About Me
 I'm a software engineer based in Cambridge, MA, working for Google. I was born and raised in southern New Hampshire, and attended Northeastern University for my Bachelor's Degree in Computer Science.
 
